@@ -61,18 +61,6 @@
 
 ---
 
-### Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maruf50&theme=onedark&column=4&margin-w=15&margin-h=15" alt="maruf50 trophies" />
-  </a>
-</p>
-
-<br />
-
----
-
 ### GitHub Analytics
 
 <p align="center">
