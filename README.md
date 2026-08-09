@@ -21,7 +21,7 @@
 - 🌱 **Learning & Refining:** Prisma, Next.js, Node.js, and advanced Competitive Programming algorithms.
 - 💬 **Ask Me About:** React, JavaScript/TypeScript, PHP/MySQL, Node.js, and 3D modeling workflows.
 - ⚡ **Fun Fact:** When I'm not writing code, I craft 3D assets, textures, and digital sculpts in Blender!
-      <a href="https://www.behance.net/redmark3d> 3D Portfolio </a>
+     3D Portfolio: https://www.behance.net/redmark3d
 - 📫 **Reach Me:** [3dmaruf55@gmail.com](mailto:3dmaruf55@gmail.com)
 
 <br />
