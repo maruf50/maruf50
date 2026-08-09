@@ -1,25 +1,93 @@
-<h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">An aspiring full stack developer from Bangladesh</h3>
+<h1 align="center">Hi! I'm <a href="https://github.com/maruf50">Maruf</a></h1>
+<h3 align="center">Aspiring Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf50&label=Profile%20views&color=0e75b6&style=flat" alt="maruf50" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf50" alt="maruf50" /></a> </p>
-
-- 🌱 I’m currently learning **HTML,CSS,Javascript,React js,Express js,PHP,Python,DotNET**
-
-- 💬 Ask me about **react , flutter**
-
-- 📫 How to reach me **3dmaruf55@gmail.com**
-
-- ⚡ Fun fact **I'm also good at 3D modeling and sculpting.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0E75B6&center=true&vcenter=true&width=500&lines=Full-Stack+Web+Development;React%2C+Node.js+%26+Next.js;Competitive+Programming;3D+Modeling+%26+Sculpting" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/maruf50">
+    <img src="https://komarev.com/ghpvc/?username=maruf50&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="maruf50 profile views" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf50&show_icons=true&locale=en&layout=compact" alt="maruf50" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf50&show_icons=true&locale=en" alt="maruf50" /></p>
+---
+
+### 🚀 About Me
+
+- 🔭 **Currently Building:** Monorepo full-stack web applications & AI-driven web systems.
+- 🌱 **Learning & Refining:** Prisma, Next.js, Node.js, and advanced Competitive Programming algorithms.
+- 💬 **Ask Me About:** React, JavaScript/TypeScript, PHP/MySQL, Node.js, and 3D modeling workflows.
+- ⚡ **Fun Fact:** When I'm not writing code, I craft 3D assets, textures, and digital sculpts in Blender!
+      <a href="https://www.behance.net/redmark3d> 3D Portfolio </a>
+- 📫 **Reach Me:** [3dmaruf55@gmail.com](mailto:3dmaruf55@gmail.com)
+
+<br />
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <br />
+
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+
+  <br />
+
+  <!-- Databases & 3D Design -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+</p>
+
+<br />
+
+---
+
+### Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=maruf50&theme=onedark&column=4&margin-w=15&margin-h=15" alt="maruf50 trophies" />
+  </a>
+</p>
+
+<br />
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maruf50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="maruf50 stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf50&layout=compact&theme=tokyonight&hide=html,css" alt="maruf50 top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf50&theme=tokyonight" alt="maruf50 streak" />
+</p>
+
+<br />
+
+---
+
+<p align="center">
+  <i>"Code with purpose, design with passion."</i>
+</p>
