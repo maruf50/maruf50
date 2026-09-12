@@ -15,20 +15,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Currently Building:** Monorepo full-stack web applications & AI-driven web systems.
-- 🌱 **Learning & Refining:** Prisma, Next.js, Node.js, and advanced Competitive Programming algorithms.
-- 💬 **Ask Me About:** React, JavaScript/TypeScript, PHP/MySQL, Node.js, and 3D modeling workflows.
-- ⚡ **Fun Fact:** When I'm not writing code, I craft 3D assets, textures, and digital sculpts in Blender!
+- **Currently Building:** Monorepo full-stack web applications & AI-driven web systems.
+- **Learning & Refining:** Prisma, Next.js, Node.js, and advanced Competitive Programming algorithms.
+- **Ask Me About:** React, JavaScript/TypeScript, PHP/MySQL, Node.js, and 3D modeling workflows.
+- **Fun Fact:** When I'm not writing code, I craft 3D assets, textures, and digital sculpts in Blender!
      3D Portfolio: https://www.behance.net/redmark3d
-- 📫 **Reach Me:** [3dmaruf55@gmail.com](mailto:3dmaruf55@gmail.com)
+- **Reach Me:** [3dmaruf55@gmail.com](mailto:3dmaruf55@gmail.com)
 
 <br />
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <!-- Languages -->
